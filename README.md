@@ -175,7 +175,6 @@ Chi tiết về kết quả đánh giá có thể được tìm thấy trong not
   
 Sinh viên ngành Hệ thống thông tin, khoa Công nghệ thông tin, trường Đại học Công nghệ, Đại học Quốc gia Hà Nội (UET - VNU)
 
-## Giấy phép
 ## Tài liệu tham khảo
 
 1. VnCoreNLP: A Vietnamese Natural Language Processing Toolkit
